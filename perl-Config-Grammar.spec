@@ -4,7 +4,6 @@
 
 %define		pdir	Config
 %define		pnam	Grammar
-%include	/usr/lib/rpm/macros.perl
 Summary:	Config::Grammar - A grammar-based, user-friendly config parser
 Name:		perl-Config-Grammar
 Version:	1.10
